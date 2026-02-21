@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"behavioralStrategyPattern","l":"CategorySearchStrategy"},{"p":"behavioralStrategyPattern","l":"NameSearchStrategy"},{"p":"behavioralStrategyPattern","l":"SearchStrategy"}];updateSearchResults();

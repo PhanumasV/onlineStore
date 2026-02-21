@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"structuralAdapterPattern","l":"Discountable"},{"p":"structuralAdapterPattern","l":"DiscountableAdapter"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"behavioralObserverPattern","l":"Observer"},{"p":"behavioralObserverPattern","l":"Order"},{"p":"behavioralObserverPattern","l":"OrderHistory"},{"p":"behavioralObserverPattern","l":"Subject"},{"p":"behavioralObserverPattern","l":"User"}];updateSearchResults();
